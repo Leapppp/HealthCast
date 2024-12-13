@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422117992322",
+    "project_id": "healthcast-39b8d",
+    "storage_bucket": "healthcast-39b8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422117992322:android:74fbe2b87ea9584917119b",
+        "android_client_info": {
+          "package_name": "com.example.healthcast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmOFCU25Qpec_EiJGQZkTDJdUvghREqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
