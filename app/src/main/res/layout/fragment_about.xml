@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".fragment.AboutFragment">
+
+
+    <TextView
+        android:layout_width="118dp"
+        android:layout_height="37dp"
+        android:text="About Us"
+        android:textSize="27dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="A mobile health application that predicts common disease risks based on weather patterns. and provides actionable health recommendations to users."
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <ImageView
+        android:layout_width="381dp"
+        android:layout_height="287dp"
+        android:src="@drawable/nama_tim"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="151dp" />
+
+
+</LinearLayout>
